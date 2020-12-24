@@ -4,6 +4,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#prerequisitos">Pré-requisitos</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -12,7 +13,7 @@
 </h4>
 
 <h2 id="objetivo">Objetivo</h2>
-<p>Projeto com objetivo de aprofundar os conhecimentos em React Native</p>
+<p>Projeto com objetivo de aprofundar os conhecimentos em React Native.</p>
 
 <h2 id="tecnologias">Tecnologias</h2>
 • <a>Javascript</a>
@@ -26,11 +27,12 @@
   <img alt="Calculator" title="#Mines" src="https://media.giphy.com/media/bzbHNny4H8k0LXeZgq/giphy.gif" />
 </h1>
 
-### Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Android Studio](https://developer.android.com/studio), [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) e
-[Python2](https://www.python.org/downloads/release/python-2718/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+<br/>
+<h2 id="prerequisitos">Pré-requisitos</h2>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+<a href="https://git-scm.com">Git</a>, <a href="https://developer.android.com/studio">Android Studio</a>, <a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">Java</a> e
+<a href="https://www.python.org/downloads/release/python-2718/">Python2</a>. 
+Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a>.</p>
 
 ### 🎲 Rodando o aplicativo
 <p>Primeiro instale o React Native CLI, abra o prompt de comando no modo Administrador e execute o comando:</p>
