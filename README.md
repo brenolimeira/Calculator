@@ -22,7 +22,7 @@
 • <a>React</a>
 • <a>React Native</a>
 
-### Playing
+### Interface da calculadora
 <h1 align="center">
   <img alt="Calculator" title="#Mines" src="https://media.giphy.com/media/bzbHNny4H8k0LXeZgq/giphy.gif" />
 </h1>
